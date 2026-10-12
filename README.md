@@ -9,7 +9,7 @@ Before switching to code in 2016 I ran a sales department for five years. It sti
 
 ## Selected work
 
-**[Loro](https://github.com/asavienko/loro)** is a language-learning app for iOS, Android and the web ([try it](https://main.d8avifn92wmt4.amplifyapp.com/)).
+**[Loro](https://github.com/asavienko/loro)** is a language-learning app for iOS, Android and the web ([try it](https://loro.savienko.com/)).
 You hear a phrase, say it in the pause, rate yourself, and FSRS spaced repetition (in a shared Rust core) decides when you see it again. Expo/React Native client, offline-first with sync, NestJS + PostgreSQL API on AWS EC2. Phrase sets and audio are generated with the Claude API and ElevenLabs. pnpm + Turborepo monorepo.
 
 **[Outbound voice agent](https://github.com/asavienko/outbound-agent)** calls businesses over Twilio, tells them up front it's an AI, handles objections and books demos. ElevenLabs runs the voice, Claude Haiku the conversation.
